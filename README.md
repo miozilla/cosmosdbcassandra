@@ -1,2 +1,2 @@
-# cosmosdbcassandra
+# cosmosdbcassandra 🪐
 cosmosdbcassandra : #cosmosdb #cassandra
